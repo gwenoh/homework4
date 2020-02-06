@@ -91,7 +91,7 @@ header{
   color: white;
   height: 400px;                /* Parallax effect */
 
-  background-image: url("");
+  background-image: url("https://gwenoh.github.io/homework4/images/header.jpg");
   
   grid-column: 1 / -1;
   grid-row: 2 / span 1;
